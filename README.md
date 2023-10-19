@@ -112,5 +112,3 @@
 - **Deroullers Denis** - _Développeur_ - [Frenchode59](https://github.com/frenchcode59)
 - **Dalle Alexandre** - _Développeur_ - [WazeAbi](https://github.com/WazeAbi)
 - **Harpin Vincent** - _Développeur_ - [harpinv](https://github.com/harpinv)
-#   C D A - T r a n s I o T e c h  
- 
